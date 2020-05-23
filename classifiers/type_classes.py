@@ -1,0 +1,3 @@
+classes = {
+    "decor": ["street", "city"],
+}
